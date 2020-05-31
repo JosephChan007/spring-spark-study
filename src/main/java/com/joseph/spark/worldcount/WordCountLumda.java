@@ -12,8 +12,8 @@ public class WordCountLumda {
 
     public static void main(String[] args) {
 
-        String sourceFile = "hdfs://hdfs-host3/spark/study/wc-source.txt";
-        String targetFile = "hdfs://hdfs-host3/spark/study/wc-target";
+        String sourceFile = "hdfs://joseph-hdfs/spark/study/wc-source.txt";
+        String targetFile = "hdfs://joseph-hdfs/spark/study/wc-target";
 
         // 本地模式
         // SparkConf conf = new SparkConf().setAppName("WordCountLumda").setMaster("local[*]");
