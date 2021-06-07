@@ -17,7 +17,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <logback.version>1.1.7</logback.version>
+        <logback.version>1.2.0</logback.version>
         <hadoop.version>3.2.1</hadoop.version>
         <scala.version>2.12.11</scala.version>
         <spark.scala.version>2.12</spark.scala.version>
